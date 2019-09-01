@@ -1,0 +1,23 @@
+-t set -type http
+
+--------------------------
+type is http
+server is localhost
+total 1000 requests
+data size is 1000
+we have 1 connections
+operation is set
+keyspacelen is 0
+pipeline length is 1
+0 records get
+0 records miss
+1000 records set
+0.180692 seconds total
+99% requests < 1 ms
+99% requests < 2 ms
+99% requests < 3 ms
+99% requests < 12 ms
+100% requests < 32 ms
+176 usec average for each request
+throughput is 5.534276 MB/s
+rps is 5534.276263
